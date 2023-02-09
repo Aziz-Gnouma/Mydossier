@@ -7,12 +7,12 @@
           "sujet": "devweb",
           "budjet": "1500"
         },
-          {
-                  "id": 124,
+        {
+          "id": 124,
           "username": "Client",
           "email": "client.client@gmail.com",
           "sujet": "react website",
           "budjet": "2000"
-        },
+        }
       ]
 }
