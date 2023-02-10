@@ -21,6 +21,27 @@
           "sujet": "E-website",
           "budjet": "5000"
         },
+          {
+          "id": 123,
+          "username": "Aziz Gouma",
+          "email": "aziz.gnouma2002@gmail.com",
+          "sujet": "devweb",
+          "budjet": "1500"
+        },
+        {
+          "id": 456,
+          "username": "Client",
+          "email": "client.client@gmail.com",
+          "sujet": "react website",
+          "budjet": "2000"
+        },
+         {
+          "id": 125,
+          "username": "Client2",
+          "email": "client2.client@gmail.com",
+          "sujet": "E-website",
+          "budjet": "5000"
+        },
         {
           "id": 126,
           "username": "Aziz Gouma",
